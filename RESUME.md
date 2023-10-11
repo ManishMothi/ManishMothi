@@ -1,0 +1,4 @@
+Name: Manish Mothi
+Education: Northeastern
+Major: CS + Business
+Grad Date: 2027
